@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook Sharing with  Login</string>
+    <string name="facebook_app_id">1789712741262958</string>
+
+    <string name="name">Name</string>
+    <string name="share_videos">Share Videos</string>
+    <string name="share_images">Share Images</string>
+</resources>
